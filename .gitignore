@@ -1,0 +1,4 @@
+# Trae IDE 配置目录
+.trae/
+/config.json
+/favorites.json
